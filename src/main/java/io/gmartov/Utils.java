@@ -1,4 +1,4 @@
-package io.gm.test;
+package io.gmartov;
 
 import java.util.List;
 
